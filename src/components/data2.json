@@ -1,0 +1,165 @@
+{
+    "type": "doc",
+    "content": [
+      {
+        "type": "blockGroup",
+        "content": [
+          {
+            "type": "blockContainer",
+            "attrs": {
+              "id": "48cc5481-ce26-4828-a333-50b80064ef87",
+              "textColor": "default",
+              "backgroundColor": "default"
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "textAlignment": "left",
+                  "level": "1"  
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "strike"
+                      }
+                    ],
+                    "text": "Create New Categories"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "blockContainer",
+            "attrs": {
+              "id": "9c058265-d3b5-40a2-87df-41a5119aea4f",
+              "textColor": "default",
+              "backgroundColor": "default"
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "textAlignment": "left",
+                  "level": "3"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "strike"
+                      }
+                    ],
+                    "text": "Uncategorised if No Category "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "blockContainer",
+            "attrs": {
+              "id": "fd5266af-82b9-40b0-9add-5b10aeaf67d1",
+              "textColor": "default",
+              "backgroundColor": "default"
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "type": "blockContainer",
+            "attrs": {
+              "id": "bbe03b08-92c1-41f6-af73-ffcb1102f255",
+              "textColor": "default",
+              "backgroundColor": "default"
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "type": "blockContainer",
+            "attrs": {
+              "id": "a18fc9b1-710e-4a82-a8f4-17faaaa65dbb",
+              "textColor": "default",
+              "backgroundColor": "default"
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "textAlignment": "left",
+                  "level": "1"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "strike"
+                      }
+                    ],
+                    "text": "Auto Save with Time Delay"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "blockContainer",
+            "attrs": {
+              "id": "5e30864d-1a14-4ea4-9217-678071131d50",
+              "textColor": "default",
+              "backgroundColor": "default"
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "textAlignment": "left",
+                  "level": "1"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Emoticons Integration"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "blockContainer",
+            "attrs": {
+              "id": "339cfe98-6d21-4f87-ab3c-92fac0a48769",
+              "textColor": "default",
+              "backgroundColor": "default"
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
