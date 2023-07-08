@@ -1,0 +1,39 @@
+.card-container {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* Initial box shadow */
+    
+    background-color: '#f5f5f5';
+}
+
+.card-container.lift-up {
+  transform: translateY(-4px);
+
+  box-shadow: 0px 6px 10px rgba(9, 9, 215, 0.4); /* Blue box shadow */
+  background-color: '#ded7d7'
+}
+@keyframes shake {
+  0% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-5px);
+  }
+  50% {
+    transform: translateX(5px);
+  }
+  75% {
+    transform: translateX(-5px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.shake-effect {
+  transition: transform 0.2s;
+}
+
+.shaking {
+  animation: shake 0.5s infinite;
+  
+}
